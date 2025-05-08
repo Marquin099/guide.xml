@@ -1319,11 +1319,64 @@
 	<channel id="br#discovery-kids-hd">
 		<display-name>Discovery Kids FHD</display-name>
 		<icon src="http://cutix.click/logos/vbYb7Xkr_o.png" />
-	</channel>
+ 	<channel id="globo.br">
+                <display-name lang="pt">Globo</display-name>
+        </channel>
+        <channel id="record.br">
+                <display-name lang="pt">Record</display-name>
+        </channel>
+
+  <!-- Programação da Globo para 08/05/2025 (quinta-feira) -->
+  <programme start="20250508120000 -0300" stop="20250508130000 -0300" channel="globo.br">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Notícias nacionais e internacionais com apresentação de Maria Júlia Coutinho.</desc>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20250508130000 -0300" stop="20250508150000 -0300" channel="globo.br">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">Filme: Aventura na Floresta (ou similar, a confirmar).</desc>
+    <category lang="pt">Filme</category>
+  </programme>
+  <programme start="20250508180000 -0300" stop="20250508190000 -0300" channel="globo.br">
+    <title lang="pt">No Rancho Fundo</title>
+    <desc lang="pt">Novela das 18h, com histórias do interior brasileiro.</desc>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20250508190000 -0300" stop="20250508203000 -0300" channel="globo.br">
+    <title lang="pt">Pedaço de Mim</title>
+    <desc lang="pt">Novela das 19h, drama familiar com humor.</desc>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20250508203000 -0300" stop="20250508210000 -0300" channel="globo.br">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Principais notícias do Brasil e do mundo com William Bonner e Renata Vasconcellos.</desc>
+    <category lang="pt">Notícias</category>
+  </programme>
+  <programme start="20250508210000 -0300" stop="20250508220000 -0300" channel="globo.br">
+    <title lang="pt">Mania de Você</title>
+    <desc lang="pt">Novela das 21h, romance e intrigas no litoral carioca.</desc>
+    <category lang="pt">Novela</category>
+  </programme>
+
+  <!-- Programação da Record para 08/05/2025 (quinta-feira) -->
+  <programme start="20250508120000 -0300" stop="20250508130000 -0300" channel="record.br">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Programa de variedades com dicas, entrevistas e culinária.</desc>
+    <category lang="pt">Variedades</category>
+  </programme>
+  <programme start="20250508180000 -0300" stop="20250508194500 -0300" channel="record.br">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Jornalismo policial com Luiz Bacci, cobrindo casos em tempo real.</desc>
+    <category lang="pt">Jornalismo</category>
+  </programme>
+  <programme start="20250508203000 -0300" stop="20250508213000 -0300" channel="record.br">
+    <title lang="pt">Reis</title>
+    <desc lang="pt">Novela bíblica narrando histórias de reis de Israel.</desc>
+    <category lang="pt">Novela</category>
+  </programme>
 </tv>
-<?xml version="1.0" encoding="utf-8"?>
-<tv>
-  <!-- Canais já presentes na sua fonte -->
+
+  
   <channel id="globo.br">
     <display-name lang="pt">Globo</display-name>
   </channel>
