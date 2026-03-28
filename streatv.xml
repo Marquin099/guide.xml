@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV Custom" generator-info-url="http://www.xmltv.org/">
+  <channel id="DISCOVERY HOME&amp;HEALTH HD">
+    <display-name>Discovery Home &amp; Health HD</display-name>
+    <icon src="https://iptv-epg.org/logos/Brazil/DiscoveryHomeandHealth.br.png"/>
+  </channel>
+  <programme start="20260328140400 -0300" stop="20260328145600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Leslie e Lyndsay - Irmãs pra Toda Obra</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 7 - Renovação de Chalé Rústico</sub-title>
+    <desc lang="pt-br">Lyndsay e Leslie apostam alto na reforma de um chalé remoto em um bosque. Elas incorporam seus espíritos de lenhadoras para inserir elementos de madeira que combinam perfeitamente com o estilo multicolorido de meados do século XX.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328145600 -0300" stop="20260328154700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">De Casa Nova</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 11 - Um Novo Lar para a Família</sub-title>
+    <desc lang="pt-br">Um casal decide alocar os pais e a avó dela em uma casa recém-reformada em Laurel. Ben e Erin precisam achar um imóvel com uma varanda perfeita para o pai, um banheiro divino para a mãe e uma suíte privativa para a avó.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328154700 -0300" stop="20260328163800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Imóveis que Cabem no Bolso</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 11 - A Reforma de um Lar Midcentury</sub-title>
+    <desc lang="pt-br">Depois de comprar a casa de campo do seu padrinho, um proprietário busca recuperar seu antigo esplendor dos anos 50. Egypt e Mike constroem uma cozinha maior, mas enfrentam algumas alterações inesperadas no design.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328163800 -0300" stop="20260328172900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - A Obra de Rob Lowe</sub-title>
+    <desc lang="pt-br">Rob Lowe ajuda Jonathan e Drew a transformar a casa de sua querida amiga e assistente há 27 anos. Apesar de já ter feito algumas melhorias na casa, Rob quer presenteá-la com a cozinha e a sala elegantes que ela sempre quis.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328172900 -0300" stop="20260328182000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 5 - Mudando a Casa e Não de Escola</sub-title>
+    <desc lang="pt-br">Após o nascimento de seu terceiro filho, um casal acha que sua casa ficou sem espaço. Jonathan e Drew reformam todo o imóvel para que a família possa continuar na casa que adora e na escola de que o filho mais velho precisa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328182000 -0300" stop="20260328191000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 1 - Comida e Família</sub-title>
+    <desc lang="pt-br">Jonathan e Drew ajudam um casal em Richmond, Virgínia, a expandir sua casa térrea. Apaixonados por comida, eles querem uma grande cozinha que caiba sua família numerosa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328191000 -0300" stop="20260328200400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Menos É Demais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 5 - Eliani - Amor de Mãe</sub-title>
+    <desc lang="pt-br">Eliani guarda lembranças da filha que já saiu de casa. Com Carol e Bárbara, ela transforma o quarto e redescobre o cuidado consigo mesma.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328200400 -0300" stop="20260328205500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Mama June - Vida Nova</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 7 - Às Cegas</sub-title>
+    <desc lang="pt-br">Mama June é levada às pressas ao hospital depois que sua visão piora durante a noite; Jennifer finalmente recebe o resultado dos exames de DNA para saber se Alana é mesmo filha de Sugar Bear.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328205500 -0300" stop="20260328214600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Mama June - Vida Nova</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 8 - Revolta Paterna</sub-title>
+    <desc lang="pt-br">Alana leva Sugar Bear a uma aula de ioga para ajudá-lo a controlar a raiva, mas a confusão está armada quando ele descobre o resultado dos exames de DNA; a cirurgia ocular de June é malsucedida.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328214600 -0300" stop="20260328223700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Baylen - Uma Vida sem Filtro</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 13 - Meu Cérebro Parece Diferente</sub-title>
+    <desc lang="pt-br">A jornada de Baylen Dupree, uma jovem que vive com um caso extremo de Síndrome de Tourette. Apesar dos desafios, ela e a família não têm medo de rirem e de abraçarem o caos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328223700 -0300" stop="20260328232900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos À Obra: Um Lar para Amar</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 1 - Espaços Apertados</sub-title>
+    <desc lang="pt-br">Um casal compra uma casa reformada, mas com uma criança de três anos e um recém-nascido, eles precisam de mais espaço e funcionalidade; Jonathan e Drew encaram uma reforma extensa e encontram problemas de obras anteriores.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328232900 -0300" stop="20260329002100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformar para Vender com Tarek e Heather</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 1 - Do Lixo ao Luxo</sub-title>
+    <desc lang="pt-br">Tarek e Heather encaram sua reforma mais desafiadora em Hawthorne, na Califórnia. Eles tentam transformar uma casa em péssimo estado em um imóvel valioso, mas anos de sujeira podem fazer com que eles desistam.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329002100 -0300" stop="20260329011100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformando com Estilo em Las Vegas</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 2 - Abrindo Caminho</sub-title>
+    <desc lang="pt-br">Alison faz uma revelação incrível para seus primeiros clientes em Las Vegas e enfrenta novos desafios ao assumir a próxima reforma.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329011100 -0300" stop="20260329013700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 12 - Destaques em Cobre</sub-title>
+    <desc lang="pt-br">Com um bebê a caminho, um casal tem uma cozinha com grandes problemas de design. John Colaneri e Anthony Carrino criam um projeto aberto para o piso térreo e aumentam a funcionalidade da cozinha.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329013700 -0300" stop="20260329015900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 13 - Do Desastre ao Sonho Realizado</sub-title>
+    <desc lang="pt-br">A reforma da casa de Seida se transforma em um pesadelo quando o empreiteiro abandona a obra e a deixa sem cozinha. Kathie Lee Gifford cria um novo projeto para a sala e os primos projetam uma cozinha europeia.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329015900 -0300" stop="20260329024800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">100 Dias para Morar - Começando do Zero</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - Novo Lar no Litoral</sub-title>
+    <desc lang="pt-br">Brian e Mika tentam controlar o estresse quando um casal da Virgínia decide construir uma casa na Flórida. Como ela prefere uma decoração colorida e ele sonha com um refúgio todo branco, Mika precisa encontrar um meio-termo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329024800 -0300" stop="20260329033700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 10 - Nova Geração, Nova Decoração</sub-title>
+    <desc lang="pt-br">Um casal está radiante com a compra da casa dos avós dele, mas o imóvel precisa de uma nova decoração e disposição dos cômodos. Jonathan e Drew reinventam as principais áreas de convivência para um lar perfeito.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329033700 -0300" stop="20260329051100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - Bem-Vindo à Festa, Amigo</sub-title>
+    <desc lang="pt-br">Gino vai a Las Vegas em busca de diversão; Loren e Alex organizam um churrasco com Elizabeth, Andrei, Jovi e Yara.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329051100 -0300" stop="20260329060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - Bem-Vindo à Festa, Amigo</sub-title>
+    <desc lang="pt-br">Os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329060000 -0300" stop="20260329062600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformas Incríveis</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 7 - O Quarto dos Sonhos</sub-title>
+    <desc lang="pt-br">Chip demole um labirinto de paredes feito por um mau empreiteiro para criar um quarto dos sonhos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329062600 -0300" stop="20260329071400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Salvando Reformas com Jasmine Roth</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 7 - De Quem É a Decisão?</sub-title>
+    <desc lang="pt-br">Indecisão deixou uma família presa em uma casa com projetos pela metade e um banheiro cheio de perigos. Jasmine tenta agradar a ambos e terminar a casa com um visual atemporal que eles possam amar por muitos anos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329071400 -0300" stop="20260329080200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Salvando Reformas com Jasmine Roth</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 9 - Você Não me Completa</sub-title>
+    <desc lang="pt-br">Faz dez anos que o casal se mudou para uma casa desafiadora onde ela começou projetos impossíveis de terminar. Agora, Jasmine precisa reconfigurar uma planta estranha, dobrar o tamanho da cozinha e criar uma vibe litorânea.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329080200 -0300" stop="20260329085200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Restaurando Casas com Dave e Jenny</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 1 - De uma Casa sem Graça a Refúgio Encantador</sub-title>
+    <desc lang="pt-br">Uma proprietária novata está super animada para transformar sua casa no estilo cottage inglês para curtir com as amigas. Mas, quando a demolição começa, Dave e Jenny encontram um desafio inesperado: o porão está totalmente alagado.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329085200 -0300" stop="20260329093600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Restaurando Casas com Dave e Jenny</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 2 - Honrando os Heróis</sub-title>
+    <desc lang="pt-br">A pressão aumenta para Dave e Jenny enquanto eles tentam dar uma transformação inesquecível a uma família militar; com a despedida em breve, Dave e Jenny trabalham contra o relógio para terminar a reforma a tempo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329093600 -0300" stop="20260329102400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Gordon Ramsay - Serviço Secreto</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 6</sub-title>
+    <desc lang="pt-br">Gordon investiga uma churrascaria com um proprietário sobrecarregado e inexperiente, preso em sua ambição de fazer a transição de um negócio de buffet para um dono de restaurante.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329102400 -0300" stop="20260329111100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Gordon Ramsay - Do Inferno ao Paraíso em 24h</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 6</sub-title>
+    <desc lang="pt-br">Gordon e sua equipe transformam o Fetch Bistro, um restaurante singular que serve pessoas e cães.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329111100 -0300" stop="20260329125100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 6 - Pátio O Restaurante - São Paulo/SP</sub-title>
+    <desc lang="pt-br">No Pátio O Restaurante, Jacquin enfrenta problemas na cozinha e na equipe, enquanto o casal sonha em ver o filho Henrique assumir o negócio.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329125100 -0300" stop="20260329134200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">S.O.S. Restaurante</title>
+    <sub-title lang="pt-br">Temporada 22 Episódio 8 - Conflito no Gigi's</sub-title>
+    <desc lang="pt-br">A saúde da proprietária Gigi está debilitada, mas ela não pode se afastar do trabalho, pois sua filha e seu chefe de cozinha brigam constantemente. Tudo pelo que Gigi trabalhou irá desmoronar a menos que Robert consiga reparar o relacionamento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329134200 -0300" stop="20260329143400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reforma em Família com Karen e Mina</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 2 - Chalé em Near Eastside</sub-title>
+    <desc lang="pt-br">Em Near Eastside, Mina e Karen esperam que a adição de dois andares a um chalé renda um lucro maior que seu último projeto do tipo. Depois de encontrar vários buracos misteriosos, a equipe teme estourar o orçamento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329143400 -0300" stop="20260329152600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformando com Estilo em Las Vegas</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 1 - Dobrar a Aposta</sub-title>
+    <desc lang="pt-br">Alison trabalha em uma rotunda com tema de casa na árvore que grita "Vegas".</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329152600 -0300" stop="20260329161800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Compra e Venda</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 17 - Lee Roy e Lisa</sub-title>
+    <desc lang="pt-br">Os músicos de Nashville, Lee Roy e Lisa, decidem unir suas famílias e morar juntos. Mas antes de comprar a casa de seus sonhos, eles precisam transformar o imóvel antigo em uma opção atraente para o mercado imobiliário.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329161800 -0300" stop="20260329180000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dr. Now - Diários de Peso</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 5 - A História de Trista</sub-title>
+    <desc lang="pt-br">Depois de perder o filho e o casamento, Trista recorreu à comida e chegou a pesar mais de 270 kg. Pronta para se curar, ela busca a ajuda do Dr. Now.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329180000 -0300" stop="20260329190000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Operação Transplante</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - Entre Irmãos</sub-title>
+    <desc lang="pt-br">Cirurgiões precisam substituir os pulmões de uma mulher e uma equipe realiza um transplante intervivos de fígado entre duas irmãs.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329190000 -0300" stop="20260329204000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 15 - Você Não É Mais uma Criança, Dorothy</sub-title>
+    <desc lang="pt-br">Como estão os casais que participaram das temporadas anteriores de "90 Dias para Casar".</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329204000 -0300" stop="20260329213000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 15</sub-title>
+    <desc lang="pt-br">Os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329213000 -0300" stop="20260329231200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 16 - Eita, Isso Escalou Rápido</sub-title>
+    <desc lang="pt-br">Como estão os casais que participaram das temporadas anteriores de "90 Dias para Casar".</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260329231200 -0300" stop="20260330000300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 16</sub-title>
+    <desc lang="pt-br">Os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+
+  <!-- Segunda 30 de Março -->
+  <programme start="20260330060000 -0300" stop="20260330062200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformas Incríveis</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 9 - Cozinha ao Ar Livre</sub-title>
+    <desc lang="pt-br">Chip Wade cria uma cozinha ao ar livre derrubando uma parede e redimensionando o quintal.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330062200 -0300" stop="20260330071100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Keith &amp; Evan - Reformando com o Coração</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 6 - Casa do Velho Oeste e Problemas no Circo</sub-title>
+    <desc lang="pt-br">Keith explora suas origens texanas para decorar uma casa inspirada no Velho Oeste; Keith e Evan precisam resolver um problema sério no piso de uma casa inspirada em um antigo circo francês.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330071100 -0300" stop="20260330075500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Compra e Venda</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 2 - David e Siobhan</sub-title>
+    <desc lang="pt-br">David e Siobhan estão ansiosos para encontrar uma nova casa, mas não conseguem fechar um bom negócio com o mercado de imóveis aquecido. Agora, eles pretendem começar uma guerra de lances.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330075500 -0300" stop="20260330093500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Bake Off Brasil - Mão na Massa</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 9 - Jardim Encantado e Tornado de Chocolate</sub-title>
+    <desc lang="pt-br">A natureza inspira criações delicadas na prova criativa. Na técnica, os confeiteiros encaram um doce clássico com visual moderno e texturas marcantes.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330093500 -0300" stop="20260330102500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 1 - Só para Seus Olhos</sub-title>
+    <desc lang="pt-br">Acompanhe a ansiedade dos casais antes do início da permanência de 90 dias em um país estrangeiro. Em um dos casos, ela começa antes mesmo do processo para obtenção do visto.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330102500 -0300" stop="20260330111500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 2 - Um Sonho Distante</sub-title>
+    <desc lang="pt-br">Depois de uma briga feia, Jorge se pergunta se ainda tem uma noiva. Nicole deixa os EUA e viaja para o Marrocos para conhecer o noivo, Azan.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330111500 -0300" stop="20260330120600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 3 - De Croqué a Crochê</sub-title>
+    <desc lang="pt-br">O pai de Trent está com problemas de saúde, não consegue comparecer à reunião de dia dos pais, e Trent repensa suas prioridades; Anna enfrenta a realidade de morar sozinha e Emma curte seu novo quarto.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330120600 -0300" stop="20260330125800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 4 - Guerra de Insetos</sub-title>
+    <desc lang="pt-br">Os Johnstons levam sua guerra de pegadinhas a outro nível, incluindo insetos vivos à brincadeira; Liz e Anna fazem aulas de autodefesa para acalmar os pais; a família aprende a fazer pizza.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330125800 -0300" stop="20260330135000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 5 - Mudando a Casa e Não de Escola</sub-title>
+    <desc lang="pt-br">Após o nascimento de seu terceiro filho, um casal acha que sua casa ficou sem espaço. Jonathan e Drew reformam todo o imóvel para que a família possa continuar na casa que adora e na escola de que o filho mais velho precisa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330135000 -0300" stop="20260330144200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">100 Dias para Morar - Começando do Zero</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 5 - Agora É pra Cozinhar</sub-title>
+    <desc lang="pt-br">Um chef e sua esposa deixam Boston para viver na Flórida, mas transformar a cozinha dos sonhos em realidade é um grande desafio.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330144200 -0300" stop="20260330153300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Imóveis que Cabem no Bolso</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 6 - Um Projeto em Dunwoody</sub-title>
+    <desc lang="pt-br">Uma família está pronta para encontrar seu lar definitivo e eles precisam de um lugar próximo ao aeroporto. Eles ainda estão formando suas opiniões sobre o que desejam, então Egypt e Mike os guiarão para a casa perfeita em Dunwoody, Georgia.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330153300 -0300" stop="20260330162400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Imóveis que Cabem no Bolso</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 7 - Mudar ou Reformar</sub-title>
+    <desc lang="pt-br">Com os filhos fora de casa, uma mulher decide viver a próxima fase de sua vida depois de passar a vida toda cuidado da família. Agora, Egypt e Mike devem ajudá-la a escolher entre reformar sua casa ou reduzi-la.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330162400 -0300" stop="20260330171500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra</title>
+    <sub-title lang="pt-br">Temporada 13 Episódio 2 - Jana e Larry</sub-title>
+    <desc lang="pt-br">Depois que uma crise familiar os levou de volta para a casa dos pais, um casal está pronto e ansioso para se mudar para sua casa própria. Os irmãos tentam convencê-los a ver o potencial em um desastre inacabado e Jonathan promete trabalhar em uma renovação deslumbrante.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330171500 -0300" stop="20260330185700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 11 - A História de Renee</sub-title>
+    <desc lang="pt-br">Ex-modelo plus-size e defensora da beleza das gordinhas, Renee percebe os erros fatais que cometeu quando passou a pesar mais de 270 quilos e ter diversos problemas de saúde.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330185700 -0300" stop="20260330194600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sim, Chef!</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - Provando do Seu Próprio Remédio</sub-title>
+    <desc lang="pt-br">Sinopse não disponível no momento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330194600 -0300" stop="20260330203500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Gordon Ramsay - Do Inferno ao Paraíso em 24h</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 1</sub-title>
+    <desc lang="pt-br">Gordon vai para a comunidade de Congers, Nova York, em uma tentativa de salvar Bella Gianna, um restaurante italiano de gerência familiar. Gordon e sua equipe têm apenas 24 horas para transformar o restaurante antes que os clientes sejam convidados a julgar as mudanças.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330203500 -0300" stop="20260330212300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Gordon Ramsay - Do Inferno ao Paraíso em 24h</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 3</sub-title>
+    <desc lang="pt-br">Gordon Ramsay chega ao Caneda's White Rooster, um restaurante cubano que tenta se destacar no saturado mercado italiano da região; recém-inaugurado, o negócio não dá lucro.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330212300 -0300" stop="20260330221200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Gordon Ramsay - Do Inferno ao Paraíso em 24h</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 4</sub-title>
+    <desc lang="pt-br">O chef Ramsay chega a Nova Jersey para ajudar o restaurante familiar Botto's Italian Line, que está em dificuldades; Robert, dono e gerente geral, não confia no irmão mais novo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330221200 -0300" stop="20260330235600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 6 - Pátio O Restaurante - São Paulo/SP</sub-title>
+    <desc lang="pt-br">No Pátio O Restaurante, Jacquin enfrenta problemas na cozinha e na equipe, enquanto o casal sonha em ver o filho Henrique assumir o negócio.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330235600 -0300" stop="20260330003900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">S.O.S. Restaurante</title>
+    <sub-title lang="pt-br">Temporada 22 Episódio 9 - Parado na Pista</sub-title>
+    <desc lang="pt-br">Em Greenville, Carolina do Sul, os proprietários de um café no aeroporto acham que as crianças de um parquinho próximo espantam os clientes. Robert Irvine sugere algumas soluções para seus problemas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330003900 -0300" stop="20260330012800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">S.O.S. Confeitaria</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 6 - Dolce &amp; Caffè</sub-title>
+    <desc lang="pt-br">A Dolce &amp; Café está localizada em Pero e é gerenciada por Paola. Ernst identifica que os principais problemas do estabelecimento são a má experiência de Paola e, acima de tudo, seu mau relacionamento com o chef.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330012800 -0300" stop="20260330021600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Antes dos 90 Dias</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 7 - Eu Nunca</sub-title>
+    <desc lang="pt-br">Os casais favoritos de "90 Dias para Casar" abrem as portas de sua casa para o público e assistem juntos ao episódio. Tim e Veronica, Kenny e Armando, Robert e Anny, e Jovi e Yara não poupam nenhum comentário.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330021600 -0300" stop="20260330024900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 13 - Trilha da Costela</sub-title>
+    <desc lang="pt-br">No Trilha da Costela, Jacquin enfrenta desafios além dos problemas habituais. O chef precisa lidar com uma equipe em constante conflito e uma intensa rivalidade entre os cozinheiros.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330024900 -0300" stop="20260330035400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 3 - Cynthia</sub-title>
+    <desc lang="pt-br">Cynthia tem 275 quilos e cria cinco filhos sozinha. Com medo de morrer e deixar as crianças desamparadas, ela precisa equilibrar as pressões da sobrevivência e a necessidade de emagrecer.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260330035400 -0300" stop="20260330053800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 2 - Primos Impossíveis</sub-title>
+    <desc lang="pt-br">O restaurante Mama Lee's Soul Food, em San Antonio, Texas, está em apuros e é um projeto perfeito para o programa de Robert Irvine, "SOS Restaurante". John Colaneri e Anthony Carrino viajam para o Texas para salvar sua cozinha.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+
+  <!-- Terça 31 de Março -->
+  <programme start="20260331060000 -0300" stop="20260331062200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformas Incríveis</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 10 - Casa na Árvore</sub-title>
+    <desc lang="pt-br">O empreiteiro e decorador Chip Wade constrói uma casa na árvore com tirolesa e um conjunto de jogos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331062200 -0300" stop="20260331071100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reforma Total com Nate e Jeremiah</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 8 - Carrie Bradshaw Encontra os Jetsons</sub-title>
+    <desc lang="pt-br">Sherry fica triste com a profunda deterioração da casa de sua infância. Cabe a Nate e Jeremiah reviver os dias de glória do imóvel e recuperar as lembranças felizes da família.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331071100 -0300" stop="20260331075500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra</title>
+    <sub-title lang="pt-br">Temporada 13 Episódio 15 - Brian e Angie</sub-title>
+    <desc lang="pt-br">Brian, Angie e seus filhos acabam de se instalar em Nashville depois de passarem por nove mudanças em 15 anos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331075500 -0300" stop="20260331093500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Bake Off Brasil - Mão na Massa</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 10 - Voltando a Ser Criança e Notas de Sabor</sub-title>
+    <desc lang="pt-br">Confeiteiros revivem a infância em forma de bolos e encaram uma escultura que exige precisão milimétrica para reproduzir um piano de cauda comestível.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331093500 -0300" stop="20260331100700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 3 - Encontro com a Família</sub-title>
+    <desc lang="pt-br">Alla enfrenta um encontro tenso com a família de Matt. Pedro conhece os pais de Chantel, que pensam que ele tem um visto de estudante. Anfisa apresenta suas exigências financeiras para Jorge.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331100700 -0300" stop="20260331110100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 4 - A Vida É uma Festa</sub-title>
+    <desc lang="pt-br">Matt e Alla têm um encontro com um amigo cético de Matt. Nicole deixa os EUA e viaja para a cidade natal de Azan para conhecer sua família. Pedro vê um novo lado de Chantel durante uma viagem à Flórida.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331110100 -0300" stop="20260331115500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 5 - Cansado</sub-title>
+    <desc lang="pt-br">Emma e Alex comemoram seus aniversários com uma festa no tema luau; agora com 16 anos, os adolescentes têm permissão para namorar; Trent está frustrado e toma uma decisão importante no trabalho.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331115500 -0300" stop="20260331124900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 6 - Mar Agitado</sub-title>
+    <desc lang="pt-br">Os Johnstons fazem uma viagem de férias para a Flórida, com os namorados dos filhos; Jonah dá a notícia de que vai morar junto com sua namorada, Ashley.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331124900 -0300" stop="20260331134100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 6 - Um Pouco de Glamour de Las Vegas</sub-title>
+    <desc lang="pt-br">Um casal do Texas mudou para Las Vegas para ficar mais perto da família, mas a cozinha datada e a sala de jantar não combinam com seus jantares temáticos. Drew e Jonathan entram em cena para transformar sua casa no sonho de um artista.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331134100 -0300" stop="20260331143500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">100 Dias para Morar - Começando do Zero</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 6 - Depois da Tempestade</sub-title>
+    <desc lang="pt-br">Após um casal perder tudo em um furacão, Brian e Mika usam um método inovador para reconstruir a casa sobre a água.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331143500 -0300" stop="20260331152900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Compra e Venda</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 6 - Kim e Tim</sub-title>
+    <desc lang="pt-br">Uma família de gostos ecléticos procura um novo lar, mas a busca pode levá-los mais longe do que imaginavam.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331152900 -0300" stop="20260331162300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 8 Episódio 3 - Alívio na Reforma</sub-title>
+    <desc lang="pt-br">Após dez longos anos tentando reformar sua casa, um casal decide pedir ajuda. Jonathan e Drew reinventam a planta do imóvel, maximizando cada centímetro quadrado das áreas interna e externa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331162300 -0300" stop="20260331171700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 1 - Bateria e Demolição com John Stamos</sub-title>
+    <desc lang="pt-br">John Stamos se une a Jonathan e Drew para transformar a garagem de seu melhor amigo no espaço perfeito para curtir e tocar música.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331171700 -0300" stop="20260331185900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais - Itália</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 5</sub-title>
+    <desc lang="pt-br">Constança deseja atingir um peso que lhe permita levar uma vida normal.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331185900 -0300" stop="20260331204000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 14 - A História de Jennifer e Marissa</sub-title>
+    <desc lang="pt-br">Jennifer e sua filha, Marissa, estão presas em uma relação de codependência que coloca a vida de ambas em risco. Pesando mais de 200 quilos cada uma, elas precisam recuperar o controle de sua vida antes que seja tarde demais.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331204000 -0300" stop="20260331212900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 11 - A Jornada de Ontreon</sub-title>
+    <desc lang="pt-br">Com 317 quilos, Ontreon consegue seguir adiante graças a sua fé em Deus e estuda para se tornar pastor. Mas se não encontrar um meio de acreditar em si mesmo, nunca vai conseguir parar de comer.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331212900 -0300" stop="20260331221900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dra. Sandra Lee - Casos Explosivos</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 14 - O Maior Caroço do Mundo</sub-title>
+    <desc lang="pt-br">A doutora Lee ajuda Ronen, que tem um caroço misterioso acima do joelho; Amber sofre de uma doença de pele debilitante; Sandy tem uma massa no pescoço; o cisto na pálpebra de Kristy está acabando com sua vida.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331221900 -0300" stop="20260331230700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dra. Sandra Lee - Casos Explosivos</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 15 - Pendurado</sub-title>
+    <desc lang="pt-br">Uma mulher sofre com várias protuberâncias no rosto; um homem tem uma massa que fica pendurada perto de sua área genital. a protuberância do nariz de um paciente dificulta sua respiração.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331230700 -0300" stop="20260331233600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sobre Essa Pele</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 5 - Daiane Tamires e Joyce</sub-title>
+    <desc lang="pt-br">Raquel enfrenta o desafio de tatuar as marcas de Daiane, causadas por uma abdominoplastia feita em outro país. Já Margarita tatua Joyce, que após um acidente de moto decide transformar em arte a perna que doou tecido para reconstruir a outra.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260331233600 -0300" stop="20260401000400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sobre Essa Pele</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 4 - Lívia e Djalda</sub-title>
+    <desc lang="pt-br">Margarita atende Lívia, que deseja ressignificar a cicatriz deixada pelo tratamento contra o câncer; Djalda procura Raquel para transformar em arte a marca profunda de uma queimadura sofrida na infância.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401000400 -0300" stop="20260401012200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 13 - A História de Schenee</sub-title>
+    <desc lang="pt-br">Desolada por dois abortos devido ao excesso de peso, Schenee sonha em ter uma família e parar de depender do marido, Freddie. Ela espera que a cirurgia bariátrica resolva os problemas de fertilidade e salve seu casamento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401012200 -0300" stop="20260401023400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Antes dos 90 Dias</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 8 - Calmaria Antes da Tempestade</sub-title>
+    <desc lang="pt-br">Os casais favoritos de "90 Dias para Casar" abrem as portas de sua casa para o público e assistem juntos ao episódio. Tim e Veronica, Kenny e Armando, Robert e Anny, e Jovi e Yara não poupam nenhum comentário.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401023400 -0300" stop="20260401024900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Do Outro Lado</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 19 - (500) Dias de Chatice</sub-title>
+    <desc lang="pt-br">Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401024900 -0300" stop="20260401035900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Do Outro Lado</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 20 - Ele Simplesmente Não Gosta Tanto dos EUA</sub-title>
+    <desc lang="pt-br">Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401035900 -0300" stop="20260401042400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sobre Essa Pele</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 4 - Lívia e Djalda</sub-title>
+    <desc lang="pt-br">Margarita atende Lívia, que deseja ressignificar a cicatriz deixada pelo tratamento contra o câncer; Djalda procura Raquel para transformar em arte a marca profunda de uma queimadura sofrida na infância.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401042400 -0300" stop="20260401053800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 5 - Doug</sub-title>
+    <desc lang="pt-br">Depois da dependência de álcool e drogas, Doug passou a comer sem parar e agora está com 300 quilos. Pai de três filhos, ele precisa controlar seu apetite para salvar sua vida e seu casamento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401053800 -0300" stop="20260401060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 5 - Ilusões de Grandeza</sub-title>
+    <desc lang="pt-br">Jarred e Leah têm uma espaçosa casa clássica de dois andares em Nova Jersey. Como a cozinha é minúscula e tem péssimo acabamento, John Colaneri e Anthony Carrino sugerem algumas soluções criativas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+
+  <!-- Quarta 01 de Abril -->
+  <programme start="20260401060000 -0300" stop="20260401064900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Keith &amp; Evan - Reformando com o Coração</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 7 - Circo Vintage e Oásis Marroquino</sub-title>
+    <desc lang="pt-br">Enquanto reparam a casa inspirada em um circo antigo, Keith e Evan projetam uma casa de estilo marroquino, com tons quentes e azulejos com detalhes elaborados; Shea encarrega os rapazes de seu projeto mais importante.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401064900 -0300" stop="20260401073800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Compra e Venda</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 2 - Aubrey e Jonathan</sub-title>
+    <desc lang="pt-br">Uma casa de fazenda de 200 anos de idade é um trabalho de tempo integral, o que exige uma busca intensa por uma casa pronta para morar.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401073800 -0300" stop="20260401091600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Bake Off Brasil - Mão na Massa</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 11 - Doce Ídolo e Torre de Croquembouche</sub-title>
+    <desc lang="pt-br">Competidores se vestem de personalidades e são desafiados a criarem bolos autorais que reflitam a essência das personalidades que mais os influenciaram na vida. A prova técnica é uma torre desafiadora.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401091600 -0300" stop="20260401100700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 5 - Testando as Águas</sub-title>
+    <desc lang="pt-br">Jorge revela um segredo sobre seu passado a Anfisa. As diferenças culturais continuam a causar problemas para Nicole e Azan. Alla aproveita para refletir durante a viagem de Matt.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401100700 -0300" stop="20260401110100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 6 - Eu Vejo as Rachaduras</sub-title>
+    <desc lang="pt-br">Azan prepara uma surpresa para Nicole no deserto. Chantel se arrepende quando sai em segredo para comprar o vestido de casamento sem sua mãe. Nicole pede conselhos externos sobre Azan.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401110100 -0300" stop="20260401115500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 7 - Um Emprego para Trent</sub-title>
+    <desc lang="pt-br">Trent começa a procurar um novo emprego enquanto Amber decide se vai se inscrever na faculdade para atuar como professora; Anna, Emma e Alex montam uma cabine fotográfica para Emma e tiram fotos para suas lojas on-line.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401115500 -0300" stop="20260401124900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 10 Episódio 8 - Como se Diz Esse Nome?</sub-title>
+    <desc lang="pt-br">Trent começa em um novo emprego e Alex, Emma e Amber voltam para a escola. A vida está agitada, mas Trent e Amber pensam em uma nova adição para a casa. Eles só não sabem como as crianças reagirão.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401124900 -0300" stop="20260401134100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 9 - Seguindo o Fluxo</sub-title>
+    <desc lang="pt-br">Uma musicista adora reunir a família em sua casa, em Los Angeles, mas espaços limitados e pisos desnivelados dificultam a movimentação de sua irmã. Drew e Jonathan a ajudam a criar o layout perfeito.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401134100 -0300" stop="20260401143500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Do Velho ao Novo</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 1 - Uma Casa Antiga que Parece Nova</sub-title>
+    <desc lang="pt-br">Chip e Joanna mostram a Doug e Lacy três casas no bairro sofisticado de Castle Heights, Waco.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401143500 -0300" stop="20260401152900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Amar e Renovar, Renovar e Amar com Hilary Farr</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 5 - Domínio dos Brinquedos</sub-title>
+    <desc lang="pt-br">Nick e Nicky reformaram casa, mas agora ela está cheia de roupas e brinquedos; Hilary faz cozinha nova, quartos e tira banheiro extra.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401152900 -0300" stop="20260401162300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Leslie e Lyndsay - Irmãs pra Toda Obra</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 11 - Gabinete dos Gabinetes</sub-title>
+    <desc lang="pt-br">Lyndsay e Leslie retornam à cidade natal, Mukilteo, para ajudar um comandante aposentado da Marinha e a esposa a reformar a casa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401162300 -0300" stop="20260401171700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">A Sonhada Casa de Campo</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - Subindo o Nível</sub-title>
+    <desc lang="pt-br">Os irmãos assumem a responsabilidade por um casal com duas filhas e mais de dez animais de estimação, mas com ranchos escassos e caros, não será fácil.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401171700 -0300" stop="20260401185900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 12 - A História de Sarah</sub-title>
+    <desc lang="pt-br">Depois de uma infância difícil, com um pai abusivo e uma mãe viciada em drogas, Sarah pesa mais de 270 quilos e luta pela vida com apenas 24 anos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401185900 -0300" stop="20260401204900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra</title>
+    <sub-title lang="pt-br">Temporada 12 Episódio 7 - Patrick e Julie</sub-title>
+    <desc lang="pt-br">Um casal está pronto para desistir de sua busca por imóvel depois de ver mais de 200 propriedades e perder 14 lances; para piorar a situação, o condomínio do casal vendeu mais rápido do que o esperado, e eles precisam morar na casa de seus pais.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401204900 -0300" stop="20260401213900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra</title>
+    <sub-title lang="pt-br">Temporada 12 Episódio 8 - Carolyn e Gerald</sub-title>
+    <desc lang="pt-br">Caroline e Gerald moram em uma casa de fazenda em Ontário, Canadá, com dois filhos adultos. Próximos da aposentadoria, eles procuram um imóvel que não seja tão distante da cidade e com espaço para suas antiguidades.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401213900 -0300" stop="20260401222900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 2 - Eva Longoria Quer Muito Reformar</sub-title>
+    <desc lang="pt-br">Os irmãos Drew e Jonathan Scott ajudam grandes estrelas de Hollywood a expressarem sua profunda gratidão às pessoas que tiveram um grande impacto em suas vidas, surpreendendo-as com grandes e emocionantes reformas em suas casas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401222900 -0300" stop="20260401231900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Property Brothers: Buying &amp; Selling</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 20 - Blanca e Teddy</sub-title>
+    <desc lang="pt-br">A casa de Blanca e Teddy está pequena demais para a família. Agora, eles procuram um imóvel maior, mas que não fuja muito do orçamento estipulado. Drew e Jonathan ajudam o casal na busca imobiliária.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401231900 -0300" stop="20260401234900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Missão Faxina com Ellen Milgrau</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 2 - Letícia</sub-title>
+    <desc lang="pt-br">Com o tempo, as promessas do início do relacionamento foram sendo esquecidas pelo casal de gamers Letícia e Rafael. Com cômodos inutilizáveis e gatos dominando o apartamento, pedem ajuda a Ellen para conseguirem voltar a receber quem amam.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260401234900 -0300" stop="20260402002200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Missão Faxina com Ellen Milgrau</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - Deborah</sub-title>
+    <desc lang="pt-br">A depressão não pede passagem. Deborah viu sua vaidade adormecer e esqueceu completamente da casa. Seus pets dominaram os cômodos e a sujeira tomou conta de tudo. Ellen e os faxiners têm uma missão intensa pela frente.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402002200 -0300" stop="20260402011000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformando com Estilo em Las Vegas</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - De Volta ao Mercado</sub-title>
+    <desc lang="pt-br">Sinopse não disponível no momento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402011000 -0300" stop="20260402015000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 8 - A História de Robert</sub-title>
+    <desc lang="pt-br">Com a ajuda da noiva, Kathryn, Robert recorre ao Dr. Nowzaradan em uma última tentativa para salvar sua vida. Pesando mais de 400 quilos, ele tenta reverter os efeitos da compulsão alimentar que o deixaram acamado e com um imenso linfedema.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402015000 -0300" stop="20260402022300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Antes dos 90 Dias</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 9 - Romance Ruim</sub-title>
+    <desc lang="pt-br">Os casais favoritos de "90 Dias para Casar" abrem as portas de sua casa para o público e assistem juntos ao episódio. Ron e Betty, Robert e Anny, Kenny e Armando, e Molly e Cynthia não poupam nenhum comentário.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402022300 -0300" stop="20260402024900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 1 - Pé de Fava</sub-title>
+    <desc lang="pt-br">O chef Erick Jacquin visita um restaurante nordestino que enfrenta muitas dificuldades.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402024900 -0300" stop="20260402040500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 7 - Diana</sub-title>
+    <desc lang="pt-br">Diana já foi uma mulher magra e ativa, mas agora é prisioneira de um corpo com 281 quilos. Para se libertar da compulsão alimentar, ela embarca em uma jornada radical de redução de peso.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402040500 -0300" stop="20260402060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 5 - Ilusões de Grandeza</sub-title>
+    <desc lang="pt-br">Jarred e Leah têm uma espaçosa casa clássica de dois andares em Nova Jersey. Como a cozinha é minúscula e tem péssimo acabamento, John Colaneri e Anthony Carrino sugerem algumas soluções criativas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+
+  <!-- Quinta 02 de Abril -->
+  <programme start="20260402060000 -0300" stop="20260402064900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reforma Total com Nate e Jeremiah</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 2 - Costa Global</sub-title>
+    <desc lang="pt-br">Recém-casados, Kelly e Jason transformaram sua casa em um desastre e agora não conseguem ocupá-la. A missão de Nate e Jeremiah é transformar a casa semidemolida em um perfeito bangalô praiano.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402064900 -0300" stop="20260402073800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra</title>
+    <sub-title lang="pt-br">Temporada 14 Episódio 1 - Nas Montanhas com Estilo</sub-title>
+    <desc lang="pt-br">Os irmãos correm para terminar um projeto depois que a casa de uma família é vendida mais rápido do que o esperado.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402073800 -0300" stop="20260402091600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Bake Off Brasil - Mão na Massa</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 12 - Noite de Gala e Doce Suspiro</sub-title>
+    <desc lang="pt-br">Na represcagem, os confeiteiros eliminados criam bolos sofisticados para a "Noite de Gala" e reproduzem um doce com camadas delicadas e visual refinado.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402091600 -0300" stop="20260402100700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 7 - Hora de Dizer a Verdade</sub-title>
+    <desc lang="pt-br">O cronograma de 90 dias continua a criar tensão entre os casais. Nicole e Azan tomam uma decisão crucial sobre seu relacionamento. Anfisa expulsa Jorge, e os pais de Chantel dão um ultimato.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402100700 -0300" stop="20260402110100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 8 - Foi para Isso que Você Veio</sub-title>
+    <desc lang="pt-br">Anfisa revela suas verdadeiras intenções a Jorge. A mãe de Matt frustra os sonhos de casamento de Alla. Nicole pede conselhos externos sobre Azan. Chantel pede perdão ao irmão.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402110100 -0300" stop="20260402115500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 1 - O Finlandês</sub-title>
+    <desc lang="pt-br">A família se prepara para a chegada de Joose, um estudante de intercâmbio da Finlândia. Enquanto Liz, Anna e Jonah curtem morar sem os pais, os filhos mais novos ajudam Trent a mexer nas redes sociais para seu emprego novo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402115500 -0300" stop="20260402124900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 2 - Abóboras e Futebol</sub-title>
+    <desc lang="pt-br">Os Johnstons apresentam Joose às tradições norte-americanas, incluindo abóboras esculpidas no Halloween e um jogo de futebol escolar na sexta à noite; Alex enfrenta dificuldades na escola.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402124900 -0300" stop="20260402134100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 10 - Mais Espaço</sub-title>
+    <desc lang="pt-br">Depois que o destino os uniu, um casal se apaixonou por uma casa vintage em Los Angeles. Agora com dois filhos, o layout do imóvel não ajuda, e Drew e Jonathan decidem dar mais espaço para a família viver.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402134100 -0300" stop="20260402143500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Do Velho ao Novo</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 2 - Um Bairro Revitalizado</sub-title>
+    <desc lang="pt-br">Joanna e Chip apresentam Charmaine e Chuck ao bairro histórico de Sanger Heights.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402143500 -0300" stop="20260402152900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 4 - Kate Hudson</sub-title>
+    <desc lang="pt-br">A atriz Kate Hudson presenteia sua futura sogra com uma surpresa de renovação do quintal; Kate trabalha com afinco para transformar seu espaço externo cansado em um oásis para relaxar e receber convidados.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402152900 -0300" stop="20260402162300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 6 - Compre Primeiro, Projete Depois</sub-title>
+    <desc lang="pt-br">Os Primos precisam criar um novo projeto para uma cozinha que comporte armários já encomendados.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402162300 -0300" stop="20260402165600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 7 - Uma Surpresa para Mamãe</sub-title>
+    <desc lang="pt-br">John surpreende sua mãe com uma cozinha nova, mas talvez ela não fique pronta a tempo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402165600 -0300" stop="20260402171700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Casa em Obra - Do Pesadelo ao Sonho</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - Aquela Cabana dos Anos 70</sub-title>
+    <desc lang="pt-br">A reforma da cabana de um casal rapidamente se transforma em um pesadelo quando o empreiteiro e a família dele ocupam o local. Agora, com pouco dinheiro sobrando no orçamento, os donos chamam Rico para ajudar a colocar o projeto de volta nos trilhos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402171700 -0300" stop="20260402185900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dr. Now - Diários de Peso</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - A História de Graça</sub-title>
+    <desc lang="pt-br">Grace tem mais de 270 kg e entra no programa do Dr. Now. Ela precisa enfrentar a difícil tarefa de mudar sua relação com as irmãs em busca de uma saúde melhor.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402185900 -0300" stop="20260402204000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 13 Episódio 1 - A Jornada de Jonathan</sub-title>
+    <desc lang="pt-br">Jonathan tinha o emprego dos sonhos, mas o perdeu devido à comida. Antes um socorrista, agora ele mal sai do quarto. Sua esposa trabalha em tempo integral para pagar as contas, e Jonathan precisa quebrar seu ciclo alimentar.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402204000 -0300" stop="20260402221800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 7 - Restaurante La Cantina - Santo André/SP</sub-title>
+    <desc lang="pt-br">O exigente chef Erick Jacquin dá consultoria a restaurantes que estão à beira da falência. Com orientação ou broncas, o chef mostra as alterações necessárias para evitar que mais restaurantes fechem as portas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402221800 -0300" stop="20260402235600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Pesadelo na Cozinha</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 8 - Monalisa</sub-title>
+    <desc lang="pt-br">No centro de São Paulo, o Monalisa é um desorganizado restaurante comandado por Giorgio e Natan, um casal que vive em pé de guerra. Jacquin precisa ter jogo de cintura para salvar algo além dos negócios: um casamento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260402235600 -0300" stop="20260403004600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sim, Chef!</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - Provando do Seu Próprio Remédio</sub-title>
+    <desc lang="pt-br">Sinopse não disponível no momento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403004600 -0300" stop="20260403013500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">24 em 24 - O Último Chef em Pé</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 4 - Quarto Turno - Arte</sub-title>
+    <desc lang="pt-br">Os dez chefs restantes têm dez minutos para criar um prato bonito que vai ser julgado não pelo sabor, mas pela aparência. Em seguida, eles preparam pratos inspirados em obras de arte famosas para a jurada Fariyal Abdullahi.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403013500 -0300" stop="20260403022300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Antes dos 90 Dias</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 10 - Tempo Esgotado</sub-title>
+    <desc lang="pt-br">Os casais favoritos de "90 Dias para Casar" abrem as portas de sua casa para o público e assistem juntos ao episódio; Tim e Veronica, Robert e Anny, Brandon e Julia, e Molly e Cynthia não poupam nenhum comentário.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403022300 -0300" stop="20260403042200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">MasterChef Confeitaria</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 10 - A Grande Final</sub-title>
+    <desc lang="pt-br">Disputa da grande final do MasterChef Confeitaria. Os confeiteiros devem preparar um menu exclusivo de três passos que seja autoral, coeso, saboroso, bonito e que demonstre quem eles são na arte de fazer guloseimas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403042200 -0300" stop="20260403060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 9 - Nicole</sub-title>
+    <desc lang="pt-br">Pesando mais de 317 quilos, Nicole arrisca deixar seus dois filhos pequenos órfãos. Ela se compromete a seguir a dieta do Dr. Nowzaradan, mas uma crise ameaça destruir suas esperanças.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+
+  <!-- Sexta 03 de Abril -->
+  <programme start="20260403060000 -0300" stop="20260403064900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Keith &amp; Evan - Reformando com o Coração</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 8 - Casa Gótica e Casa Federal</sub-title>
+    <desc lang="pt-br">Keith e Evan encaram seu projeto mais caro com uma casa no estilo arquitetônico federal e tentam preservar suas raízes norte-americanas. Depois, Evan teme que a ideia de Keith de um bangalô gótico afugente compradores.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403064900 -0300" stop="20260403073800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Compra e Venda</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 4 - Edina e Trey</sub-title>
+    <desc lang="pt-br">A busca por uma nova família esbarra em um orçamento que varia do básico ao sofisticado.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403073800 -0300" stop="20260403091600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Bake Off Brasil - Mão na Massa</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 13 - Puro Suco do Brasil e Recanto da Capivara</sub-title>
+    <desc lang="pt-br">Ícones brasileiros inspiram criações cheias de identidade e os confeiteiros enfrentam um doce complexo com montagem delicada e moderna.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+<programme start="20260403091600 -0300" stop="20260403100700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 9 - Você Vai Sentir a Minha Falta Quando Eu For Embora</sub-title>
+    <desc lang="pt-br">O cronograma de 90 dias continua a criar tensão entre os casais. Nicole e Azan tomam uma decisão crucial sobre seu relacionamento. Anfisa expulsa Jorge, e os pais de Chantel dão um ultimato.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403100700 -0300" stop="20260403110100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar</title>
+    <sub-title lang="pt-br">Temporada 4 Episódio 10 - Confissões de uma Noiva Estrangeira</sub-title>
+    <desc lang="pt-br">Chantel e Pedro têm uma discussão sobre o futuro. Anfisa testa os limites de Jorge. Alla faz uma confissão estarrecedora. Lowo descobre que Narkyia ainda não confia nele.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403110100 -0300" stop="20260403115500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 3 - Jogos no Quintal</sub-title>
+    <desc lang="pt-br">Os Johnstons apresentam a estudante finlandesa Joose seu lado competitivo com os primeiros Jogos no Quintal dos Johnstons. Trent e Amber comemoram seu aniversário de casamento com tubulações, reboco e pijamas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403115500 -0300" stop="20260403124900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Os Pequenos Johnstons</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 4 - O Massacre dos Cranberries</sub-title>
+    <desc lang="pt-br">Os Johnstons apresentam para a estudante finlandesa Joose algumas tradições de Ação de Graças - e também algumas da própria família; Liz e Anna pensam em comprar uma casa; Liz acredita que ela e Brice estão prontos para dar o próximo passo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403124900 -0300" stop="20260403134100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 5 Episódio 8 - O Coração da Família</sub-title>
+    <desc lang="pt-br">Uma musicista adora reunir a família em sua casa, em Los Angeles, mas espaços limitados e pisos desnivelados dificultam a movimentação de sua irmã. Drew e Jonathan a ajudam a criar o layout perfeito.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403134100 -0300" stop="20260403143500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Do Velho ao Novo</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - Um Novo Lar no Subúrbio</sub-title>
+    <desc lang="pt-br">Chip e Jo levam os clientes Becky e Heath Ivy para os subúrbios de Woodway, Texas, em busca de um lar contemporâneo para a família em crescimento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403143500 -0300" stop="20260403152900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 11 Episódio 2 - Eva Longoria Quer Muito Reformar</sub-title>
+    <desc lang="pt-br">Os irmãos Drew e Jonathan Scott ajudam grandes estrelas de Hollywood a expressarem sua profunda gratidão às pessoas que tiveram um grande impacto em suas vidas, surpreendendo-as com grandes e emocionantes reformas em suas casas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403152900 -0300" stop="20260403162300 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 6 - Compre Primeiro, Projete Depois</sub-title>
+    <desc lang="pt-br">Os Primos precisam criar um novo projeto para uma cozinha que comporte armários já encomendados.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403162300 -0300" stop="20260403165600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 7 - Uma Surpresa para Mamãe</sub-title>
+    <desc lang="pt-br">John surpreende sua mãe com uma cozinha nova, mas talvez ela não fique pronta a tempo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403165600 -0300" stop="20260403171700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Casa em Obra - Do Pesadelo ao Sonho</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - Aquela Cabana dos Anos 70</sub-title>
+    <desc lang="pt-br">A reforma da cabana de um casal rapidamente se transforma em um pesadelo quando o empreiteiro e a família dele ocupam o local. Agora, com pouco dinheiro sobrando no orçamento, os donos chamam Rico para ajudar a colocar o projeto de volta nos trilhos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403171700 -0300" stop="20260403185900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dr. Now - Diários de Peso</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 4 - A História de Graça</sub-title>
+    <desc lang="pt-br">Grace tem mais de 270 kg e entra no programa do Dr. Now. Ela precisa enfrentar a difícil tarefa de mudar sua relação com as irmãs em busca de uma saúde melhor.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403185900 -0300" stop="20260403204000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 2 - A História de Brianne</sub-title>
+    <desc lang="pt-br">Com mais de 315 quilos e correndo risco de vida, Brianne inicia uma jornada de perda de peso. Ela enfrenta uma situação difícil quando a saúde de seu marido começa a se deteriorar.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403204000 -0300" stop="20260403212900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dra. Emma - Uma Questão de Pele</title>
+    <sub-title lang="pt-br">Temporada 8 Episódio 4</sub-title>
+    <desc lang="pt-br">Dra. Emma Craythorne e sua equipe de especialistas estão em uma missão para resolver condições complexas da pele. Eles ajudam pessoas cujas vidas foram impedidas por distúrbios devastadores.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403212900 -0300" stop="20260403221900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dra. Sandra Lee - A Rainha dos Cravos</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 6 - Dor em Dose Tripla</sub-title>
+    <desc lang="pt-br">John teme que o nódulo grande em seu pescoço cresça a ponto de sufocá-lo; Shoshana está deprimida devido a um cisto grande na testa; Ashley espera que a Dra. Lee ofereça algum alívio para três doenças de pele dolorosas.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403221900 -0300" stop="20260403230700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sobre Essa Pele</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 6 - Carla e Caroline</sub-title>
+    <desc lang="pt-br">As tatuadoras Raquel Gauthier e Margarita Sultanova transformam cicatrizes em arte e esperança. O foco são histórias de mulheres que carregam marcas causadas por acidentes, violência, cirurgias ou até mesmo adquiridas desde o nascimento.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403230700 -0300" stop="20260403233600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Sobre Essa Pele</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 5 - Daiane Tamires e Joyce</sub-title>
+    <desc lang="pt-br">Raquel enfrenta o desafio de tatuar as marcas de Daiane, causadas por uma abdominoplastia feita em outro país. Já Margarita tatua Joyce, que após um acidente de moto decide transformar em arte a perna que doou tecido para reconstruir a outra.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260403233600 -0300" stop="20260404002200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Dra. Cathy - Devolvendo a Autoestima</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 13 - Reflexões</sub-title>
+    <desc lang="pt-br">A doutora Cathy relembra as histórias mais marcantes, chocantes e tocantes; ela convida Palesa, uma criança agressiva que atendeu, para voltar à sua clínica para uma linda surpresa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260404002200 -0300" stop="20260404011600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cirurgiões - No Limite da Vida</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 6 - Não Dar Chance ao Azar</sub-title>
+    <desc lang="pt-br">Cirurgiões realizam cirurgias de alto risco para salvar a visão de seus pacientes, e três especialidades se combinam para tratar um caso complexo de câncer de ovário avançado.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260404011600 -0300" stop="20260404022200 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Meus Pés Estão me Matando</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 3 - Amputação Extrema</sub-title>
+    <desc lang="pt-br">Anna tem dedões enormes, mas espera ter os pés que sempre quis; Russell chega ao consultório da doutora Ebonie com pés que mais parecem cascos; Patty teve a maior parte de seu pé amputada e procura a doutora Sarah.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260404022200 -0300" stop="20260404030100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Quilos Mortais</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 3 - A História de Pauline</sub-title>
+    <desc lang="pt-br">Com 51 anos de idade, Pauline está passando dos 300 quilos. Seu vício por comida toma todo o tempo da vida de seu filho, que se dedica a cuidar dela. Será que Pauline conseguirá superar o vício, mudar de vida e salvar a vida de ambos?</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260404030100 -0300" stop="20260404060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 2 - Primos Impossíveis</sub-title>
+    <desc lang="pt-br">O restaurante Mama Lee's Soul Food, em San Antonio, Texas, está em apuros e é um projeto perfeito para o programa de Robert Irvine, "SOS Restaurante". John Colaneri e Anthony Carrino viajam para o Texas para salvar sua cozinha.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+</tv>
