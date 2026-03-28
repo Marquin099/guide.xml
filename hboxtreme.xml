@@ -1,47 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Grok EPG Custom - HBO XTREME" generator-info-url="https://x.ai">
+<tv generator-info-name="Grok EPG HBO XTREME Multi-ID" generator-info-url="https://x.ai">
+
+  <!-- Múltiplos IDs para cobrir todas as variantes do seu painel -->
   <channel id="HBO XTREME">
     <display-name lang="pt-br">HBO XTREME</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HBO_logo.svg/512px-HBO_logo.svg.png" />
   </channel>
+  <channel id="HBO XTREME 4K">
+    <display-name lang="pt-br">HBO XTREME 4K</display-name>
+  </channel>
+  <channel id="HBO XTREME FHD">
+    <display-name lang="pt-br">HBO XTREME FHD</display-name>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="pt-br">HBO XTREME HD</display-name>
+  </channel>
+  <channel id="HBO XTREME HD²">
+    <display-name lang="pt-br">HBO XTREME HD²</display-name>
+  </channel>
+  <channel id="HBO XTREME SD">
+    <display-name lang="pt-br">HBO XTREME SD</display-name>
+  </channel>
+
+  <!-- Programação Sábado 28/03/2026 (mesma que você passou) -->
   <programme start="20260328141200 -0300" stop="20260328160100 -0300" channel="HBO XTREME">
     <title lang="pt-br">Velozes e Furiosos 4</title>
     <desc lang="pt-br">Dominic Toretto descobre que sua amada Letty foi assassinada e resolve procurar pelo autor do crime. Enquanto isso, o agente Brian O'Conner está em busca de um traficante de drogas. Eles percebem que talvez estejam atrás da mesma pessoa.</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260328160100 -0300" stop="20260328181300 -0300" channel="HBO XTREME">
     <title lang="pt-br">Velozes e Furiosos 5</title>
-    <desc lang="pt-br">Desde que o ex-policial Brian O'Conner e Mia Toretto libertaram Dom da prisão, eles viajam pelo mundo para fugir das autoridades. No Rio de Janeiro, são obrigados a fazer um último trabalho antes de ganhar sua liberdade definitiva. Brian e Dom montam uma equipe de elite de pilotos de carro para executar a tarefa, mas precisam enfrentar um empresário corrupto e também um obstinado agente federal norte-americano.</desc>
+    <desc lang="pt-br">Desde que o ex-policial Brian O'Conner e Mia Toretto libertaram Dom da prisão, eles viajam pelo mundo para fugir das autoridades. No Rio de Janeiro, são obrigados a fazer um último trabalho antes de ganhar sua liberdade definitiva...</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260328181300 -0300" stop="20260328202700 -0300" channel="HBO XTREME">
     <title lang="pt-br">Velozes &amp; Furiosos 6</title>
-    <desc lang="pt-br">Após roubo no Rio de Janeiro que rendeu 100 milhões, Dom e sua equipe se separaram. Hobbs convoca Dom para reunir um grupo de elite em Londres contra mercenários liderados por alguém apoiado por Letty, ex-namorada de Dom que ele pensava estar morta.</desc>
+    <desc lang="pt-br">Após roubo no Rio de Janeiro que rendeu 100 milhões, Dom e sua equipe se separaram. Hobbs convoca Dom para reunir um grupo de elite em Londres contra mercenários...</desc>
     <category lang="pt-br">Thriller</category>
   </programme>
+
   <programme start="20260328202700 -0300" stop="20260328220000 -0300" channel="HBO XTREME">
     <title lang="pt-br">Linha de Fogo</title>
-    <desc lang="pt-br">Após sua esposa falecer, o ex-agente secreto do FBI Jack Conry, conhecido como Cash, deixa tudo para trás para se dedicar às suas duas filhas. Apesar de levar uma vida gratificante em casa, em Miami, Cash sente falta de sua vocação e está considerando voltar à força. A decisão é tomada por ele quando um amigo liga pedindo ajuda, lançando Cash de volta a um submundo perigoso de corrupção e intriga.</desc>
+    <desc lang="pt-br">Após sua esposa falecer, o ex-agente secreto do FBI Jack Conry, conhecido como Cash, deixa tudo para trás para se dedicar às suas duas filhas...</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260328220000 -0300" stop="20260328235900 -0300" channel="HBO XTREME">
     <title lang="pt-br">A Identidade Bourne</title>
-    <desc lang="pt-br">Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.</desc>
+    <desc lang="pt-br">Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril...</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260328235900 -0300" stop="20260329015000 -0300" channel="HBO XTREME">
     <title lang="pt-br">A Supremacia Bourne</title>
-    <desc lang="pt-br">Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill, pelo roubo de milhões da CIA. Kirill começa a perseguir Bourne com a intenção de assassiná-lo, mas, por engano, mata a namorada de Bourne, Marie. Jurando vingança, Bourne se propõe a provar sua inocência e trazer os culpados à justiça.</desc>
+    <desc lang="pt-br">Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill...</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260329015000 -0300" stop="20260329040300 -0300" channel="HBO XTREME">
     <title lang="pt-br">Velozes e Furiosos 5</title>
-    <desc lang="pt-br">Desde que o ex-policial Brian O'Conner e Mia Toretto libertaram Dom da prisão, eles viajam pelo mundo para fugir das autoridades. No Rio de Janeiro, são obrigados a fazer um último trabalho antes de ganhar sua liberdade definitiva. Brian e Dom montam uma equipe de elite de pilotos de carro para executar a tarefa, mas precisam enfrentar um empresário corrupto e também um obstinado agente federal norte-americano.</desc>
+    <desc lang="pt-br">Desde que o ex-policial Brian O'Conner e Mia Toretto libertaram Dom da prisão...</desc>
     <category lang="pt-br">Action</category>
   </programme>
+
   <programme start="20260329040300 -0300" stop="20260329060000 -0300" channel="HBO XTREME">
     <title lang="pt-br">RocknRolla - A Grande Roubada</title>
-    <desc lang="pt-br">Uri Omovich é um bilionário russo que está realizando uma alta transação com Lenny Cole, um gângster à moda antiga que sabe como cuidar de seus subalternos e dos políticos locais. Para festejar o acordo feito, Uri empresta a Lenny seu quadro favorito, mas o quadro desaparece do escritório de Lenny, o que inicia uma grande busca por seu paradeiro. Isto faz com que diversos criminosos da cidade se envolvam, entre eles One Two, um bandido de rua, e Archie, o braço direito de Lenny.</desc>
+    <desc lang="pt-br">Uri Omovich é um bilionário russo que está realizando uma alta transação com Lenny Cole...</desc>
     <category lang="pt-br">Crime drama</category>
   </programme>
+
 </tv>
