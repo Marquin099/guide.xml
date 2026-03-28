@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV Custom" generator-info-url="http://www.xmltv.org/">
+  <channel id="DISCOVERY HOME&amp;HEALTH HD">
+    <display-name>Discovery Home &amp; Health HD</display-name>
+    <icon src="https://iptv-epg.org/logos/Brazil/DiscoveryHomeandHealth.br.png"/>
+  </channel>
+  <programme start="20260328140400 -0300" stop="20260328145600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Leslie e Lyndsay - Irmãs pra Toda Obra</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 7 - Renovação de Chalé Rústico</sub-title>
+    <desc lang="pt-br">Lyndsay e Leslie apostam alto na reforma de um chalé remoto em um bosque. Elas incorporam seus espíritos de lenhadoras para inserir elementos de madeira que combinam perfeitamente com o estilo multicolorido de meados do século XX.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328145600 -0300" stop="20260328154700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">De Casa Nova</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 11 - Um Novo Lar para a Família</sub-title>
+    <desc lang="pt-br">Um casal decide alocar os pais e a avó dela em uma casa recém-reformada em Laurel. Ben e Erin precisam achar um imóvel com uma varanda perfeita para o pai, um banheiro divino para a mãe e uma suíte privativa para a avó.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328154700 -0300" stop="20260328163800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Imóveis que Cabem no Bolso</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 11 - A Reforma de um Lar Midcentury</sub-title>
+    <desc lang="pt-br">Depois de comprar a casa de campo do seu padrinho, um proprietário busca recuperar seu antigo esplendor dos anos 50. Egypt e Mike constroem uma cozinha maior, mas enfrentam algumas alterações inesperadas no design.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328163800 -0300" stop="20260328172900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Te Devo Essa! Reforma das Estrelas</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - A Obra de Rob Lowe</sub-title>
+    <desc lang="pt-br">Rob Lowe ajuda Jonathan e Drew a transformar a casa de sua querida amiga e assistente há 27 anos. Apesar de já ter feito algumas melhorias na casa, Rob quer presenteá-la com a cozinha e a sala elegantes que ela sempre quis.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328172900 -0300" stop="20260328182000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 3 Episódio 5 - Mudando a Casa e Não de Escola</sub-title>
+    <desc lang="pt-br">Após o nascimento de seu terceiro filho, um casal acha que sua casa ficou sem espaço. Jonathan e Drew reformam todo o imóvel para que a família possa continuar na casa que adora e na escola de que o filho mais velho precisa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328182000 -0300" stop="20260328191000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 1 - Comida e Família</sub-title>
+    <desc lang="pt-br">Jonathan e Drew ajudam um casal em Richmond, Virgínia, a expandir sua casa térrea. Apaixonados por comida, eles querem uma grande cozinha que caiba sua família numerosa.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328191000 -0300" stop="20260328200400 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Menos É Demais</title>
+    <sub-title lang="pt-br">Temporada 6 Episódio 5 - Eliani - Amor de Mãe</sub-title>
+    <desc lang="pt-br">Eliani guarda lembranças da filha que já saiu de casa. Com Carol e Bárbara, ela transforma o quarto e redescobre o cuidado consigo mesma.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328200400 -0300" stop="20260328205500 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Mama June - Vida Nova</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 7 - Às Cegas</sub-title>
+    <desc lang="pt-br">Mama June é levada às pressas ao hospital depois que sua visão piora durante a noite; Jennifer finalmente recebe o resultado dos exames de DNA para saber se Alana é mesmo filha de Sugar Bear.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328205500 -0300" stop="20260328214600 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Mama June - Vida Nova</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 8 - Revolta Paterna</sub-title>
+    <desc lang="pt-br">Alana leva Sugar Bear a uma aula de ioga para ajudá-lo a controlar a raiva, mas a confusão está armada quando ele descobre o resultado dos exames de DNA; a cirurgia ocular de June é malsucedida.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328214600 -0300" stop="20260328223700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Baylen - Uma Vida sem Filtro</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 13 - Meu Cérebro Parece Diferente</sub-title>
+    <desc lang="pt-br">A jornada de Baylen Dupree, uma jovem que vive com um caso extremo de Síndrome de Tourette. Apesar dos desafios, ela e a família não têm medo de rirem e de abraçarem o caos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328223700 -0300" stop="20260328232900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos À Obra: Um Lar para Amar</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 1 - Espaços Apertados</sub-title>
+    <desc lang="pt-br">Um casal compra uma casa reformada, mas com uma criança de três anos e um recém-nascido, eles precisam de mais espaço e funcionalidade; Jonathan e Drew encaram uma reforma extensa e encontram problemas de obras anteriores.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260328232900 -0300" stop="20260329002100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformar para Vender com Tarek e Heather</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 1 - Do Lixo ao Luxo</sub-title>
+    <desc lang="pt-br">Tarek e Heather encaram sua reforma mais desafiadora em Hawthorne, na Califórnia. Eles tentam transformar uma casa em péssimo estado em um imóvel valioso, mas anos de sujeira podem fazer com que eles desistam.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329002100 -0300" stop="20260329011100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Reformando com Estilo em Las Vegas</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 2 - Abrindo Caminho</sub-title>
+    <desc lang="pt-br">Alison faz uma revelação incrível para seus primeiros clientes em Las Vegas e enfrenta novos desafios ao assumir a próxima reforma.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329011100 -0300" stop="20260329013700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 12 - Destaques em Cobre</sub-title>
+    <desc lang="pt-br">Com um bebê a caminho, um casal tem uma cozinha com grandes problemas de design. John Colaneri e Anthony Carrino criam um projeto aberto para o piso térreo e aumentam a funcionalidade da cozinha.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329013700 -0300" stop="20260329015900 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Cozinha dos Sonhos com John e Anthony</title>
+    <sub-title lang="pt-br">Temporada 2 Episódio 13 - Do Desastre ao Sonho Realizado</sub-title>
+    <desc lang="pt-br">A reforma da casa de Seida se transforma em um pesadelo quando o empreiteiro abandona a obra e a deixa sem cozinha. Kathie Lee Gifford cria um novo projeto para a sala e os primos projetam uma cozinha europeia.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329015900 -0300" stop="20260329024800 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">100 Dias para Morar - Começando do Zero</title>
+    <sub-title lang="pt-br">Temporada 1 Episódio 3 - Novo Lar no Litoral</sub-title>
+    <desc lang="pt-br">Brian e Mika tentam controlar o estresse quando um casal da Virgínia decide construir uma casa na Flórida. Como ela prefere uma decoração colorida e ele sonha com um refúgio todo branco, Mika precisa encontrar um meio-termo.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329024800 -0300" stop="20260329033700 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">Irmãos à Obra - Lar Sempre Lar</title>
+    <sub-title lang="pt-br">Temporada 7 Episódio 10 - Nova Geração, Nova Decoração</sub-title>
+    <desc lang="pt-br">Um casal está radiante com a compra da casa dos avós dele, mas o imóvel precisa de uma nova decoração e disposição dos cômodos. Jonathan e Drew reinventam as principais áreas de convivência para um lar perfeito.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329033700 -0300" stop="20260329051100 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias para Casar - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - Bem-Vindo à Festa, Amigo</sub-title>
+    <desc lang="pt-br">Gino vai a Las Vegas em busca de diversão; Loren e Alex organizam um churrasco com Elizabeth, Andrei, Jovi e Yara.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260329051100 -0300" stop="20260329060000 -0300" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt-br">90 Dias na Cama - Felizes para Sempre?</title>
+    <sub-title lang="pt-br">Temporada 9 Episódio 1 - Bem-Vindo à Festa, Amigo</sub-title>
+    <desc lang="pt-br">Os últimos episódios da temporada de dentro da casa dos participantes favoritos.</desc>
+    <category lang="pt-br">Reality</category>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+</tv>
